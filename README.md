@@ -1,2 +1,2 @@
 # myrepo
-collection of kodi arabic addons
+collection of kodi arabic addons made by TSmedia team
